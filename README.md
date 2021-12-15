@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Management system
+리액트 연습 목적의 관리 프로그램
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
